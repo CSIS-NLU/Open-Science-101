@@ -14,3 +14,11 @@ These summer workshops are intended to:
 ## Open Science 101 Curriculum
 
 The Open Science 101 curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan. Expand your Open Science expertise and equip yourself with the essential skills required to excel in the realm of open science. Sign up today to embark on your journey towards advancing your open science proficiency and gain your NASA Open Science Certification.
+
+
+## Facilitators
+
+
+## Special Thanks
+
+We want to thank Jesus Gil for helping with organizing our workshop days!
