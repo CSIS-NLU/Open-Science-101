@@ -19,6 +19,34 @@ The Open Science 101 curriculum is a 5-module curriculum designed to equip resea
 ## Facilitators
 
 
+## Participants
+Aibiike	Shainazarova  
+Akshay Mestry  
+Alejandro	Alvarez  
+Alexander	Zurek  
+Anas Mohammed  
+Areej Imran  
+Betty	Wong  
+Brandon	Ortiz  
+Bryan	Palafox  
+Dhruvil	Prajapati  
+Diana Toktorbekova   
+Erzhan Zheenbekov  
+Gianna Dubinski  
+Jhovanny Ugalde  
+Medina	Kubanychbekova   
+Mohammed Khan   
+Mohammed Abdul Zeeshan Askari  
+Nadim Vaid  
+Noah Martinez  
+Orlanda	Ford  
+Roberto	Perez  
+Sathvik	Maridasana Nagaraj  
+Sayyorakhon	Raimjonova  
+Shaning	Ayah  
+Yesenia Jimenez   
+
+
 ## Special Thanks
 
 We want to thank Jesus Gil for helping with organizing our workshop days!
