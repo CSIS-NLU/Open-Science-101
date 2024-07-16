@@ -11,4 +11,14 @@ Noah Martinez
 Alex Zurek  
 Erzhan Zheenbekov  
 
+## Day 1 (7/15)
 
+Draft of survey
+reviewed emojis to be utilized
+Completed research questions 
+Completed questions to ask for survey
+
+## Day 2 (7/16)
+
+Completed survey draft, ready to open it publically
+Completed IRB Signitures 
