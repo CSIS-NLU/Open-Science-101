@@ -6,9 +6,9 @@ Emojis are used for various purposes in digital communication, including enhanci
 
 ## Project Team
 
-Robyn Moncrief
-Noah Martinez
-Alex Zurek
-Erzhan Zheenbekov
+#Robyn Moncrief
+#Noah Martinez
+#Alex Zurek
+#Erzhan Zheenbekov
 
 
