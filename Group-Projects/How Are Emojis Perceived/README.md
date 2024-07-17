@@ -27,7 +27,7 @@ Olandra Ford
 
 ## Project Timeline
 
-# Day 1 (7/15)
+### Day 1 (7/15)
 
 Discuss topic  
 Formulate research questions   
@@ -35,13 +35,13 @@ Identify emojis to collect data on
 Draft and test survey  
 Draft IRB  
 
-# Day 2 (7/16)
+### Day 2 (7/16)
 
 Finalize IRB  
 Finalize Survey  
 Create survey distribution plan  
 
-# Day 3 (7/17)
+### Day 3 (7/17)
 
 Distribute survey  
 Draft reporting and presentation outline
