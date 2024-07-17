@@ -13,6 +13,13 @@
 
 
 
+---
+**Project Artifacts**:
+The "CardioGoodFitness" dataset is a CSV file of the raw data.
+The Jupyter Notebook contains the data analysis of Cardio Good Fitness Case Study. 
+
+The Excel document is the working file of the team members' analysis.
+The PowerPoint document is the summary and visual of the team members' project.
 
 ---
 
