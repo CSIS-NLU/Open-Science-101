@@ -6,6 +6,7 @@
 *.log
 *.pdf
 *.py[cod]
+.DS_Store
 .Python
 .cache
 .coverage
