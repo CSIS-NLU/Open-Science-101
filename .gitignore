@@ -14,6 +14,7 @@
 .eggs/
 .hypothesis/
 .installed.cfg
+.ipynb_checkpoints/
 .mypy_cache/
 .nox/
 .pytest_cache/
@@ -21,8 +22,10 @@
 .vscode
 MANIFEST
 __pycache__/
+archive/
 build/
 coverage.xml
+data/
 develop-eggs/
 dist/
 dmypy.json
@@ -33,6 +36,7 @@ eggs/
 htmlcov/
 lib/
 lib64/
+logs/
 nosetests.xml
 parts/
 penv/
@@ -42,6 +46,3 @@ share/python-wheels/
 var/
 venv/
 wheels/
-archive/
-logs/
-data/
