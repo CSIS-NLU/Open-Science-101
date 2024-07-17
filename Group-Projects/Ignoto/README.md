@@ -5,12 +5,13 @@ Our research study focuses on renowned programming and dataset platforms to dete
 
 We are utilizing projects from Github and Kaggler to determine if developer have access to extract data or to compile code. 
 
-## Project Team 
+## Reasearch Project Team 
 
+Members + Faculty: 
+Dr. Antonio Tova
 Betty 
 Areej 
 Medinah 
-
 
 ## URL Link to Powerpoint: 
 
