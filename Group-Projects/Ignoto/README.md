@@ -8,7 +8,7 @@ We are utilizing projects from Github and Kaggler to determine if developer have
 
 ## Reasearch Project Team: 
  
-Dr. Antonio Tova
+Dr. Antonio Tovar
 
 Betty 
 
