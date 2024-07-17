@@ -7,7 +7,7 @@ We are utilizing projects from Github and Kaggler to determine if developer have
 
 ## Reasearch Project Team 
 
-Members + Faculty: 
+#### Members + Faculty: 
 Dr. Antonio Tova
 Betty 
 Areej 
