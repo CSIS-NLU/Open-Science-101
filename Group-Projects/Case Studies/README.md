@@ -9,6 +9,12 @@ Our research study focuses on renowned programming and dataset platforms to dete
 
 > We are utilizing projects from Github and Kaggler to determine if developer have access to extract data or to compile code. 
 
+## URL Link to Powerpoint: 
+
+## URL Link to Excel Sheet of data: 
+
+## Citations:
+
 ## Reasearch Project Team: 
  
 Dr. Antonio Tovar
@@ -20,10 +26,5 @@ Areej
 Medinah 
 
 Diana 
-## URL Link to Powerpoint: 
-
-## URL Link to Excel Sheet of data: 
-
-## Citations:
 
 
