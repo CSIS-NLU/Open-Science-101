@@ -6,6 +6,17 @@ Emojis are used for various purposes in digital communication, including enhanci
 
 https://docs.google.com/forms/d/e/1FAIpQLSduo3CXtSLNMRKHc1nBrfZaw_sPOTt1Aa21fll0DbeyF5ikSw/viewform
 
+## Open Science Techniques Used
+
+### Open Data  
+Images of emojis used can be found [here](https://www.kaggle.com/datasets/subinium/emojiimage-dataset). License [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Submitted to [Kaggle.com](Kaggle.com) by Subin An. 
+
+Collected survey data is also shared here.
+
+### Open Tools Used
+
+### Open Results
+
 ## Project Team
 
 Robyn Moncrief  
