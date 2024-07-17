@@ -25,7 +25,7 @@
 [Project Dataset](https://docs.google.com/spreadsheets/d/1O1nlu68Dc1im27d3agRsesjjbSISr_olw8vQcwFQpig/edit?usp=sharing)
 
 ## URL Link to Cardio Project Description: 
-[Cardio Dataset](https://www.kaggle.com/datasets/saurav9786/cardiogoodfitness))
+[Cardio Project Description](https://www.kaggle.com/datasets/saurav9786/cardiogoodfitness)
 
 ## URL Link to Cardio Project Data: 
 [Cardio Dataset](https://raw.githubusercontent.com/antoniotovargh/Data/main/CardioGoodFitness.csv)
