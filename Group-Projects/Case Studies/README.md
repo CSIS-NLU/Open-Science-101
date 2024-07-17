@@ -6,7 +6,7 @@
 
 > The project also provides a brief overview of NASA FAIR Principles. 
 
-> Our research study focuses on renowned programming and dataset platforms to determine if they allign with our 4 NASA Open Science (Open Data, Open Code, Open Source, Open Results) and FAIR Principles (Finadable, Accesible, Interoperable, Reusable). 
+> Our research study focuses on renowned programming and dataset platforms to determine if they allign with our 4 NASA Open Science (Open Data, Open Code, Open Source, Open Results) and FAIR (Finadable, Accessible, Interoperable, Reusable) Principles. 
 
 ---
 **Terminology**: 
@@ -15,6 +15,7 @@
 
 ---
 **Project Artifacts**:
+
 The "CardioGoodFitness" dataset is a CSV file of the raw data.
 The Jupyter Notebook contains the data analysis of Cardio Good Fitness Case Study. 
 
