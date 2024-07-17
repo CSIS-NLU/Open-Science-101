@@ -2,7 +2,7 @@
 
 **Descripton of Research**: 
 
-> This project reviews different online projects found on the Internet (GitHub, Kaggle, and others) and ascertains whether the identified projects meet the NASA TOPS Principles of Open Science. This is to determine if developer have access to extract data or to compile code.
+> This project reviews different online projects found on the Internet (GitHub, Kaggle, and others) and ascertains whether the identified projects meet the NASA TOPS Principles of Open Science. This is to determine if developers have access to extract data or to compile code.
 
 > The project also provides a brief overview of NASA FAIR Principles. 
 
