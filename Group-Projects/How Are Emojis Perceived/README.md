@@ -22,20 +22,30 @@ Collected survey data is also shared here.
 Robyn Moncrief  
 Noah Martinez  
 Alex Zurek  
-Erzhan Zheenbekov  
+Erzhan Zheenbekov 
+Olandra Ford  
 
-## Day 1 (7/15)
+## Project Timeline
 
-Draft of survey
+# Day 1 (7/15)
 
-reviewed emojis to be utilized
+Discuss topic  
+Formulate research questions   
+Identify emojis to collect data on   
+Draft and test survey  
+Draft IRB  
 
-Completed research questions 
+# Day 2 (7/16)
 
-Completed questions to ask for survey
+Finalize IRB  
+Finalize Survey  
+Create survey distribution plan  
 
-## Day 2 (7/16)
+# Day 3 (7/17)
 
-Completed survey draft, ready to open it publically
+Distribute survey  
+Draft reporting and presentation outline
+Draft analysis plan
 
-Completed IRB Signitures 
+
+
