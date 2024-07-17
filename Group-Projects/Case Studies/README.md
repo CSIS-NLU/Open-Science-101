@@ -25,6 +25,9 @@ Our research study focuses on renowned programming and dataset platforms to dete
 ## URL Link to Excel Sheet Data: 
 [Project Dataset](https://docs.google.com/spreadsheets/d/1O1nlu68Dc1im27d3agRsesjjbSISr_olw8vQcwFQpig/edit?usp=sharing)
 
+## URL Link to Cardio Project Data: 
+[Cardio Dataset](https://raw.githubusercontent.com/antoniotovargh/Data/main/CardioGoodFitness.csv)
+
 ## Reasearch Project Team: 
  
 Dr. Antonio Tovar
