@@ -9,6 +9,9 @@ Our research study focuses on renowned programming and dataset platforms to dete
 
 > We are utilizing projects from Github and Kaggler to determine if developer have access to extract data or to compile code. 
 
+**Our Observations**: 
+
+
 ## URL Link to Powerpoint: 
 
 ## URL Link to Excel Sheet Data: 
