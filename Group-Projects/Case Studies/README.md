@@ -13,8 +13,6 @@ Our research study focuses on renowned programming and dataset platforms to dete
 
 ## URL Link to Excel Sheet of data: 
 
-## Citations:
-
 ## Reasearch Project Team: 
  
 Dr. Antonio Tovar
@@ -27,4 +25,4 @@ Medinah
 
 Diana 
 
-
+## Citations:
