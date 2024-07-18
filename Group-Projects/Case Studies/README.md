@@ -22,6 +22,8 @@ The Jupyter Notebook (.ipynb) contains the data analysis of the Cardio Good Fitn
 The Excel document (.xlsx) is the working file of the team members' analysis of the selected projects.
 The PowerPoint document (.pptx) is the summary and visual of the team members' project.
 
+The Questions file is specific to the "CardioGoodFitness" dataset deep dive. 
+
 The License document states that the products and outputs of the Case Studies Project are freely available to the public.
 
 ---
@@ -31,6 +33,7 @@ The License document states that the products and outputs of the Case Studies Pr
 
 ## URL Link to Powerpoint: 
 [Powerpoint](https://docs.google.com/presentation/d/1Oyg21yQdLWX0p9IjBclYXvKZryVR8g0ugpJER6LYS3U/edit?usp=sharing)
+
 ## URL Link to Excel Sheet Data: 
 [Project Dataset](https://docs.google.com/spreadsheets/d/1O1nlu68Dc1im27d3agRsesjjbSISr_olw8vQcwFQpig/edit?usp=sharing)
 
