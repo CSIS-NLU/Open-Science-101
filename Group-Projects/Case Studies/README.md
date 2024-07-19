@@ -28,7 +28,7 @@ The License document (.md) states that the products and outputs of the Case Stud
 
 **Our Observations**: 
 
-Not all information presented as Open Source is Open Code.
+Not all information presented as Open Source is Open Code. Open Code is a spectrum, which may depend on policies, project objectives, among other reasons. A Software Mangement Plan (SMP) provides a framework, which may be adjusted during project execution.
 
 Datasets are not formatted or standardized for immmediate analysis.
 
