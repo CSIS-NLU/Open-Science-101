@@ -32,7 +32,7 @@ The License document states that the products and outputs of the Case Studies Pr
 
 
 ## URL Link to Powerpoint: 
-[Powerpoint](https://docs.google.com/presentation/d/1Oyg21yQdLWX0p9IjBclYXvKZryVR8g0ugpJER6LYS3U/edit?usp=sharing)
+[Powerpoint]([https://docs.google.com/presentation/d/1Oyg21yQdLWX0p9IjBclYXvKZryVR8g0ugpJER6LYS3U/edit?usp=sharing](https://www.canva.com/design/DAGLO5h5L-U/GtQWbaLom2BIiSnMF4-cyg/view?utm_content=DAGLO5h5L-U&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
 ## URL Link to Excel Sheet Data: 
 [Project Dataset](https://docs.google.com/spreadsheets/d/1O1nlu68Dc1im27d3agRsesjjbSISr_olw8vQcwFQpig/edit?usp=sharing)
