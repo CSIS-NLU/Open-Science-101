@@ -53,15 +53,15 @@ Open Data is the principle that may not always be provided due to policies in pl
 
 ## Reasearch Project Team: 
  
-Dr. Antonio Tovar - Project Advisor 
+Dr. Antonio Tovar - Project Advisor - ORCID [0000-0002-4585-2122]
 
-Betty Wong - Project Team Member 
+Betty Wong - Project Team Member - ORCID [0000-0002-2513-1395]
 
-Areej Imran - Project Team Member
+Areej Imran - Project Team Member - ORCID [0000-0001-5731-245X]
 
-Medinah Kubanychekova - Project Team Member
+Medinah Kubanychekova - Project Team Member - ORCID [0009-0000-9457-5304]
 
-Diana Toktobekova - Project Team Member
+Diana Toktobekova - Project Team Member - ORCID [0009-0004-2472-9485]
 
 ## Citations:
 
