@@ -15,7 +15,7 @@ FAIR Principles encompass Findable, Accessible, Interoperable, and Reusable data
 **Project Artifacts**:
 
 The "CardioGoodFitness" dataset and "steps" are CSV files (.csv) of the raw data of the specific project and comparion project that the team used for a deeper dive.
-The Jupyter Notebooks (.ipynb) contain the data analysis of the Cardio Good Fitness Case Study and Cardio Case Study. 
+The Jupyter Notebooks (.ipynb) contain the data analysis of the Cardio Good Fitness Case Study and Cardio Case Study. Jupyter Noteboooks contain Python and R code for visualizations. 
 
 The Excel document (.xlsx) is the working file of the team's analysis of the selected projects.
 The PowerPoint document (.pptx) is the summary and visual of the team's project.
