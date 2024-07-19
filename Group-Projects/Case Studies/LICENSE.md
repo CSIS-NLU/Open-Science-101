@@ -1,10 +1,10 @@
 Attribution License (ODC-By)
 PREAMBLE
-The Open Data Commons Attribution License is a license agreement intended to allow users to freely share, modify, and use this Database subject only to the attribution requirements set out in Section 4.
+The Open Data Commons Attribution License is a license agreement intended to allow users to freely share, modify, and use this project's artifacts subject only to the attribution requirements set out in Section 4.
 
-Databases can contain a wide variety of types of content (images, audiovisual material, and sounds all in the same database, for example), and so this license only governs the rights over the Database, and not the contents of the Database individually. Licensors may therefore wish to use this license together with another license for the contents.
+This project can contain a wide variety of types of content (images, audiovisual material, and sounds all in the same repository, for example), and so this license only governs the rights over this project, and not the contents of the datasets individually. Licensors may therefore wish to use this license together with another license for the contents.
 
-Sometimes the contents of a database, or the database itself, can be covered by other rights not addressed here (such as private contracts, trademark over the name, or privacy rights / data protection rights over information in the contents), and so you are advised that you may have to consult other documents or clear other rights before doing activities not covered by this License.
+Sometimes the contents of a data can be covered by other rights not addressed here (such as private contracts, trademark over the name, or privacy rights / data protection rights over information in the contents), and so you are advised that you may have to consult other documents or clear other rights before doing activities not covered by this License.
 
 The Licensor (as defined below)
 
@@ -14,20 +14,20 @@ You (as defined below)
 
 agree as follows:
 
-1.0 DEFINITIONS OF CAPITALISED WORDS
-“Collective Database” – Means this Database in unmodified form as part of a collection of independent databases in themselves that together are assembled into a collective whole. A work that constitutes a Collective Database will not be considered a Derivative Database.
+1.0 DEFINITIONS OF CAPITALIZED WORDS
+“Collective Data or Database” – Means this Data in unmodified form as part of a collection of independent data in themselves that together are assembled into a collective whole. A work that constitutes a Collective Database will not be considered a Derivative Database.
 
-“Convey” – As a verb, means Using the Database, a Derivative Database, or the Database as part of a Collective Database in any way that enables a Person to make or receive copies of the Database or a Derivative Database. Conveying does not include interaction with a user through a computer network, or creating and Using a Produced Work, where no transfer of a copy of the Database or a Derivative Database occurs.
+“Convey” – As a verb, means Using the Data, a Derivative Data, or the Data as part of a Collective project in any way that enables a Person to make or receive copies of the Data or a Derivative Data. Conveying does not include interaction with a user through a computer network, or creating and Using a Produced Work, where no transfer of a copy of the Data or code or a Derivative Data or code occurs.
 
-“Contents” – The contents of this Database, which includes the information, independent works, or other material collected into the Database. For example, the contents of the Database could be factual data or works such as images, audiovisual material, text, or sounds.
+“Contents” – The contents of this project, which includes the information, independent works, or other material collected into the Data. For example, the contents of the Datab could be factual data or works such as images, audiovisual material, text, or sounds.
 
-“Database” – A collection of material (the Contents) arranged in a systematic or methodical way and individually accessible by electronic or other means offered under the terms of this License.
+“Data or Database” – A collection of material (the Contents) arranged in a systematic or methodical way and individually accessible by electronic or other means offered under the terms of this License.
 
-“Database Directive” – Means Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended or succeeded.
+“Data or Database Directive” – Means Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended or succeeded.
 
-“Database Right” – Means rights resulting from the Chapter III (“sui generis”) rights in the Database Directive (as amended and as transposed by member states), which includes the Extraction and Re-utilisation of the whole or a Substantial part of the Contents, as well as any similar rights available in the relevant jurisdiction under Section 10.4.
+“Data Right” – Means rights resulting from the Chapter III (“sui generis”) rights in the Database Directive (as amended and as transposed by member states), which includes the Extraction and Re-utilisation of the whole or a Substantial part of the Contents, as well as any similar rights available in the relevant jurisdiction under Section 10.4.
 
-“Derivative Database” – Means a database based upon the Database, and includes any translation, adaptation, arrangement, modification, or any other alteration of the Database or of a Substantial part of the Contents. This includes, but is not limited to, Extracting or Re-utilising the whole or a Substantial part of the Contents in a new Database.
+“Derivative Data” – Means a database based upon the Database, and includes any translation, adaptation, arrangement, modification, or any other alteration of the Database or of a Substantial part of the Contents. This includes, but is not limited to, Extracting or Re-utilising the whole or a Substantial part of the Contents in a new Database.
 
 “Extraction” – Means the permanent or temporary transfer of all or a Substantial part of the Contents to another medium by any means or in any form.
 
