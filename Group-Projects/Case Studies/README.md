@@ -9,7 +9,7 @@
 
 Open Science encompasses Open Data, Open Code, Open Source, and Open Result.
 
-FAIR Principles encompass Findable, Accessible, Interoperable, and Reusable data.
+FAIR Principles encompass Findable, Accessible, Interoperable, and Reusable data and information.
 
 ---
 **Project Artifacts**:
