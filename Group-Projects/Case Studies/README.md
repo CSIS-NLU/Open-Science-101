@@ -53,7 +53,7 @@ Open Data is the principle that may not always be provided due to policies in pl
 
 ## Reasearch Project Team: 
  
-Dr. Antonio Tovar - Project Advisor 
+Dr. Antonio Tovar - Project Advisor [![App Platorm](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png)]
 
 Betty Wong - Project Team Member 
 
