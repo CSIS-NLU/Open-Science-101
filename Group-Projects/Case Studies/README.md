@@ -32,10 +32,10 @@ Not all information presented as Open Source is Open Code. Open Code is a spectr
 
 Datasets are not formatted or standardized for immediate analysis.
 
-[Cardio Dataset Example](https://www.kaggle.com/datasets/shannonmcettrick/cardio)
+["Cardio Dataset" Example](https://www.kaggle.com/datasets/shannonmcettrick/cardio)
 
-[Biological sex and aerobic capacity are key determinants of peak fat oxidation rates during exercise Example](https://researchdata.bath.ac.uk/611/)
-Athough this dataset has an "Advanced" FAIR Level, the dataset needs to be standardized and formatted before analyses can be conducted. 
+["Biological sex and aerobic capacity are key determinants of peak fat oxidation rates during exercise" Example](https://researchdata.bath.ac.uk/611/)
+Athough this dataset has a DOI (10.15125/BATH-00611) and an "Advanced" FAIR Level, the dataset needs to be standardized and formatted before analyses can be conducted. 
 [FAIR Assessment](https://www.f-uji.net/index.php)
 
 Open Data is the principle that may not always be provided due to policies in place to protect institutions and user information.
