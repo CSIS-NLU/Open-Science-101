@@ -2,16 +2,13 @@
 
 **Descripton of Research**: 
 
-> This project reviews different online projects found on the Internet (GitHub, Kaggle, and others) and ascertains whether the identified projects meet the NASA TOPS Principles of Open Science. This is to determine if developers have access to extract data or to compile code.
-
-> The project also provides a brief overview of NASA FAIR Principles. 
-
-> Our research study focuses on renowned programming and dataset platforms to determine if they allign with our 4 NASA Open Science (Open Data, Open Code, Open Source, Open Results) and FAIR (Finadable, Accessible, Interoperable, Reusable) Principles. 
+> This project reviews different online projects found on the Internet (GitHub, Kaggle, and others) and ascertains whether the identified projects meet the NASA TOPS Principles of Open Science (Open Data, Open Code, Open Source, Open Results). This is to determine if developers have access to extract data or to compile code. The project also provides a brief overview of NASA FAIR Principles (Finadable, Accessible, Interoperable, Reusable). 
 
 ---
 **Terminology**: 
 
 Open Science encompasses Open Data, Open Code, Open Source, and Open Results.
+
 FAIR Principles encompass Findable, Accessible, Interoperable, and Reusable data.
 
 ---
