@@ -28,9 +28,15 @@ The License document (.md) states that the products and outputs of the Case Stud
 
 **Our Observations**: 
 
-Not all information presented as Open Source is Open Code. Open Code is a spectrum, which may depend on policies, project objectives, among other reasons. A Software Mangement Plan (SMP) provides a framework, which may be adjusted during project execution.
+Not all information presented as Open Source is Open Code. Open Code is a spectrum, which may depend on policies, project objectives, among other reasons. A Software Management Plan (SMP) provides a framework, which may be adjusted during project execution.
 
-Datasets are not formatted or standardized for immmediate analysis.
+Datasets are not formatted or standardized for immediate analysis.
+
+[Cardio Dataset Example](https://www.kaggle.com/datasets/shannonmcettrick/cardio)
+
+[Biological sex and aerobic capacity are key determinants of peak fat oxidation rates during exercise Example](https://researchdata.bath.ac.uk/611/)
+Athough this dataset has an "Advanced" FAIR Level, the dataset needs to be standardized and formatted before analyses can be conducted. 
+[FAIR Assessment](https://www.f-uji.net/index.php)
 
 Open Data is the principle that may not always be provided due to policies in place to protect institutions and user information.
 
