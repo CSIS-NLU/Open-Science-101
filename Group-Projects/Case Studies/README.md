@@ -2,7 +2,7 @@
 
 **Descripton of Research**: 
 
-> This project reviews different online projects found on the Internet (GitHub, Kaggle, and others) and ascertains whether the identified projects meet the NASA TOPS Principles of Open Science (Open Data, Open Code, Open Source, Open Results). This is to determine if developers have access to extract data or to compile code. The project also provides a brief overview of NASA FAIR Principles (Finadable, Accessible, Interoperable, Reusable). 
+> This project reviews different online projects found on the Internet (GitHub, Kaggle, and others) and ascertains whether the identified projects meet the NASA TOPS Principles of Open Science (Open Data, Open Code, Open Source, Open Results). This is to determine if developers have access to extract data or to compile code. The project also provides a brief overview of NASA FAIR Principles (Findable, Accessible, Interoperable, Reusable). 
 
 ---
 **Terminology**: 
@@ -28,6 +28,11 @@ The License document (.md) states that the products and outputs of the Case Stud
 
 **Our Observations**: 
 
+Not all information presented as Open Source is Open Code.
+
+Datasets are not formatted or standardized for immmediate analysis.
+
+Open Data is the principle that may not always be provided due to policies in place to protect institutions and user information.
 
 ## URL Link to Powerpoint: 
 [Powerpoint](https://www.canva.com/design/DAGLO5h5L-U/GtQWbaLom2BIiSnMF4-cyg/view?utm_content=DAGLO5h5L-U&utm_campaign=designshare&utm_medium=link&utm_source=editor)
