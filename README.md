@@ -23,6 +23,7 @@ Note: This version of the curriculum will not allow you to get badged. To get ba
 
 
 ## Facilitators
+<img width="397" alt="Screenshot 2024-07-19 at 2 16 43 PM" src="https://github.com/user-attachments/assets/27dc4a89-973c-49f3-851f-7043a524002f">
 
 
 ## Participants
