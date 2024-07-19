@@ -2,12 +2,12 @@
 
 **Descripton of Research**: 
 
-> This project reviews different online projects found on the Internet (GitHub, Kaggle, and others) and ascertains whether the identified projects meet the NASA TOPS Principles of Open Science (Open Data, Open Code, Open Source, Open Result). This is to determine if developers have access to extract data or to compile code. The project also provides a brief overview of NASA FAIR Principles (Finadable, Accessible, Interoperable, Reusable). 
+> This project reviews different online projects found on the Internet (GitHub, Kaggle, and others) and ascertains whether the identified projects meet the NASA TOPS Principles of Open Science (Open Data, Open Code, Open Source, Open Results). This is to determine if developers have access to extract data or to compile code. The project also provides a brief overview of NASA FAIR Principles (Finadable, Accessible, Interoperable, Reusable). 
 
 ---
 **Terminology**: 
 
-Open Science encompasses Open Data, Open Code, Open Source, and Open Result.
+Open Science encompasses Open Data, Open Code, Open Source, and Open Results.
 
 FAIR Principles encompass Findable, Accessible, Interoperable, and Reusable data and information.
 
@@ -20,7 +20,7 @@ The Jupyter Notebooks (.ipynb) contain the data analysis of the Cardio Good Fitn
 The Excel document (.xlsx) is the working file of the team's analysis of the selected projects.
 The PowerPoint document (.pptx) is the summary and visual of the team's project.
 
-The Questions file (.txt) is specific to the "CardioGoodFitness" dataset and "Cardio" deep dive. 
+The Questions file (.txt) is specific to the "CardioGoodFitness" dataset and "Cardio" dataset deep dive. 
 
 The License document (.md) states that the products and outputs of the Case Studies Project are freely available to the public.
 
@@ -54,3 +54,17 @@ Medinah Kubanychekova - Project Team Member
 Diana Toktobekova - Project Team Member
 
 ## Citations:
+
+[2013 Public Access Memo](https://github.com/user-attachments/assets/c3353dd4-0982-4628-9407-7e51a6c37261)
+(https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
+
+[2022 Equitable Access Memo](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf) 
+
+[Open Science Definition](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/#:~:text=The%20principle%20and%20practice%20of%20making%20research%20products%20and%20processes%20available%20to%20all%2C%20while%20respecting%20diverse%20cultures%2C%20maintaining%20security%20and%20privacy%2C%20and%20fostering%20collaborations%2C%20reproducibility%2C%20and%20equity.%E2%80%9D) 
+
+[Scientific Method](https://en.wikipedia.org/wiki/Scientific_method) 
+
+[NASA Modules for Open Science](https://openscience101.org/about)
+
+[NASA FAIR Principles](https://www.earthdata.nasa.gov/learn/articles/making-earth-science-data-fair#:~:text=NASA%20is%20working%20to%20ensure,FAIR)%20by%20machines%20and%20people)
+
