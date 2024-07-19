@@ -55,8 +55,7 @@ Diana Toktobekova - Project Team Member
 
 ## Citations:
 
-[2013 Public Access Memo](https://github.com/user-attachments/assets/c3353dd4-0982-4628-9407-7e51a6c37261)
-(https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
+[2013 Public Access Memo](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
 
 [2022 Equitable Access Memo](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf) 
 
@@ -66,5 +65,5 @@ Diana Toktobekova - Project Team Member
 
 [NASA Modules for Open Science](https://openscience101.org/about)
 
-[NASA FAIR Principles](https://www.earthdata.nasa.gov/learn/articles/making-earth-science-data-fair#:~:text=NASA%20is%20working%20to%20ensure,FAIR)%20by%20machines%20and%20people)
+[NASA FAIR Principles](https://www.earthdata.nasa.gov/learn/articles/making-earth-science-data-fair#:~:text=NASA%20is%20working%20to%20ensure,FAIR)
 
