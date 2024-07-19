@@ -17,3 +17,26 @@ We narrowed our Budburst data set for red maple observations taken in 2013 and 2
 We selected seven states for which observations of the first bud phenophase were made in the years 2013 and 2023. 
 
 We used a historical weather data set to look up average monthly temperatures for the years 2013 and 2023 for the months that the observations were made. 
+
+
+# Day 3 Recap
+Continued working on project.
+
+We refined details of oberservations from the data set that we have found on Budburst.
+
+Group has produced code to filter out selected observations selected on day 2.
+
+
+# Day 4 Recap
+Entire workshop went on a field trip to Chicago Botanic Garden to enjoy and make observations on the Budburst app.
+
+
+# Day 5 Recap
+Final Day of workshop and to finish up projects.
+
+We refined and added final details and information to complete the week long project.
+
+Groups have presented projects to the entire workshop of their information that they have found.
+
+This has concluded the NASA TOPS Open Science workshop! 
+
