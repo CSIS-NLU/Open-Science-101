@@ -22,7 +22,7 @@ Collected survey data is also shared here.
 Robyn Moncrief  
 Noah Martinez  
 Alex Zurek  
-Erzhan Zheenbekov 
+Erzhan Zheenbekov   
 Olandra Ford  
 
 ## Project Timeline
