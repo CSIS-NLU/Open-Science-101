@@ -11,7 +11,8 @@
 ---
 **Terminology**: 
 
-
+Open Science encompasses Open Data, Open Code, Open Source, and Open Results.
+FAIR Principles encompass Findable, Accessible, Interoperable, and Reusable data.
 
 ---
 **Project Artifacts**:
@@ -22,9 +23,9 @@ The Jupyter Notebook (.ipynb) contains the data analysis of the Cardio Good Fitn
 The Excel document (.xlsx) is the working file of the team members' analysis of the selected projects.
 The PowerPoint document (.pptx) is the summary and visual of the team members' project.
 
-The Questions file is specific to the "CardioGoodFitness" dataset deep dive. 
+The Questions file (.txt) is specific to the "CardioGoodFitness" dataset and "Cardio" deep dive. 
 
-The License document states that the products and outputs of the Case Studies Project are freely available to the public.
+The License document (.md) states that the products and outputs of the Case Studies Project are freely available to the public.
 
 ---
 
