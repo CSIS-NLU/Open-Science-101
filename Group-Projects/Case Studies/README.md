@@ -2,7 +2,7 @@
 
 **Descripton of Research**: 
 
-> This project reviews different online projects found on the Internet (GitHub, Kaggle, and others) and ascertains whether the identified projects meet the NASA TOPS Principles of Open Science (Open Data, Open Code, Open Source, Open Results). This is to determine if developers have access to extract data or to compile code. The project also provides a brief overview of NASA FAIR Principles (Findable, Accessible, Interoperable, Reusable). 
+> This project reviews different online projects found on the Internet (GitHub, Kaggle, and others) and ascertains whether the identified projects meet the NASA TOPS Principles of Open Science (Open Data, Open Code, Open Source, Open Results). This is to determine if developers have access to data and code, allowing them to extract data or to compile code. The project also provides a brief overview of NASA FAIR (Findable, Accessible, Interoperable, Reusable) Principles. 
 
 ---
 **Terminology**: 
@@ -30,7 +30,7 @@ The License document (.md) states that the products and outputs of the Case Stud
 
 Not all information presented as Open Source is Open Code. Open Code is a spectrum, which may depend on policies, project objectives, among other reasons. A Software Management Plan (SMP) provides a framework, which may be adjusted during project execution.
 
-Datasets are not formatted or standardized for immediate analysis.
+Datasets are not formatted or standardized for immediate analysis. Below are two datasets that the team reviewed. The team decided to compare the "CardioGoodFitness" dataset to the "Cardio" dataset, after standardizing and formatting the "Cardio" dataset.
 
 ["Cardio Dataset" Example](https://www.kaggle.com/datasets/shannonmcettrick/cardio).
 
@@ -76,4 +76,6 @@ Diana Toktobekova - Project Team Member - ORCID: 0009-0004-2472-9485
 [NASA Modules for Open Science](https://openscience101.org/about)
 
 [NASA FAIR Principles](https://www.earthdata.nasa.gov/learn/articles/making-earth-science-data-fair#:~:text=NASA%20is%20working%20to%20ensure,FAIR)
+
+[FAIR Assessment](https://www.f-uji.net/index.php)
 
