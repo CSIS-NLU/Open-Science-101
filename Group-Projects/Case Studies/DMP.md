@@ -12,4 +12,4 @@ Description of scientifically useful data expected to be produced by the propose
 
 Roles and responsibilities of team members for the DMP tasks: Each team member will manage the information as appropriate and warranted. At the conclusion of the project, team members are not expected to maintain the contents on this page.
 
-Best-effort compliance statements: To the best of our knowledge and ability, this DMP meets the current and applicable DMP requirements. This project will not require any variances from NASA or NLS policies.
+Best-effort compliance statements: To the best of our knowledge and ability, this DMP meets the current and applicable DMP requirements. This project will not require any variances from NASA or NLU policies.
