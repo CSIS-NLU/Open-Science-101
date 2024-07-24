@@ -22,6 +22,8 @@ The PowerPoint document (.pptx) is the summary and visual of the team's project.
 
 The Questions file (.txt) is specific to the "CardioGoodFitness" dataset and "Cardio" dataset deep dive. 
 
+The DMP (.md) or data management plan provides information on the data associated with this project and the management of this data.
+
 The License document (.md) states that the products and outputs of the Case Studies Project are freely available to the public.
 
 ---
