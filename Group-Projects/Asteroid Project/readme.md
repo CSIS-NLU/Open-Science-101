@@ -29,7 +29,17 @@ As of the first day of our workshop at NASA, we have started gathering resources
 ---
 
 **Research Questions**:
-
+> On average how many asteroids are hazardous to earth?
+> What is the asteroid average miss distance?
+> What is the size distribution of asteroids?
+> How far/close are asteroids from earth?
+> how many asteroids are considered harmful?
+> What is the ratio between harmful and not harmful asteroids?
+> What are the statistical measure for each attribute/fields/columns?
+> Do bigger (size) asteroids move faster than smaller ones?
+> 
+**Hypothesis**:
+> Asteroids with smaller diameters have greater velocity.
 //
 
 **Our Observations**:
