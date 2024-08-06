@@ -27,32 +27,11 @@ Note: This version of the curriculum will not allow you to get badged. To get ba
 
 
 ## Participants
-Aibiike	Shainazarova  
-Akshay Mestry  
-Alejandro	Alvarez  
-Alexander	Zurek  
-Anas Mohammed  
-Areej Imran  
-Betty	Wong  
-Brandon	Ortiz  
-Bryan	Palafox  
-Dhruvil	Prajapati  
-Diana Toktorbekova   
-Erzhan Zheenbekov  
-Gianna Dubinski  
-Jhovanny Ugalde  
-Medina	Kubanychbekova   
-Mohammed Khan   
-Mohammed Abdul Zeeshan Askari  
-Nadim Vaid  
-Noah Martinez  
-Orlanda	Ford  
-Roberto	Perez  
-Sathvik	Maridasana Nagaraj  
-Sayyorakhon	Raimjonova  
-Shaning	Ayah  
-Yesenia Jimenez   
+### Chicago Participants  
+Aibiike	Shainazarova, Akshay Mestry, Alejandro	Alvarez, Alexander	Zurek, Anas Mohammed, Areej Imran, Betty	Wong, Brandon	Ortiz, Bryan	Palafox, Dhruvil	Prajapati, Diana Toktorbekova, Erzhan Zheenbekov, Gianna Dubinski, Jhovanny Ugalde, Medina	Kubanychbekova, Mohammed Khan, Mohammed Abdul Zeeshan Askari, Nadim Vaid, Noah Martinez, Orlanda	Ford, Roberto	Perez, Sathvik	Maridasana Nagaraj, Sayyorakhon	Raimjonova, Shaning	Ayah, Yesenia Jimenez
 
+### Wheeling Participants  
+Alex Smagin, Alina Zholdubaeva, Brandon Swanson, David Fonseca, Emely Chuy, Enxhi Merkah, Jasmin Duishebaeva, Jordi Rodriguez, Reva Kulkarni
 
 ## Special Thanks
 
