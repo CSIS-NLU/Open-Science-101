@@ -24,7 +24,9 @@ As of the first day of our workshop at NASA, we have started gathering resources
 
 **Project Artifacts**:
 
-//
+- AsteroidData.ipynb - First rendition of data
+- AsteroidData2.ipynb - Second rendition of data with visualization of size and velocity
+- AsteroidData.csv
 
 ---
 
