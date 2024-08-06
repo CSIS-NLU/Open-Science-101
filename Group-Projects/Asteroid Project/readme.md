@@ -1,4 +1,4 @@
-# Case Study: Ignoto DCSR Presentation Materials:
+# Team AstroPioneers: Analysis of Asteroid Data Observations:
 
 **Descripton of Research**:
 
