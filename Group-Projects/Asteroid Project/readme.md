@@ -28,6 +28,10 @@ As of the first day of our workshop at NASA, we have started gathering resources
 
 ---
 
+**Research Questions**:
+
+//
+
 **Our Observations**:
 
 //
