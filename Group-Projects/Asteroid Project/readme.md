@@ -98,7 +98,7 @@ These foundational steps will guide us as we dive deeper into the analysis of NA
 
 - Dr. Antonio Tovar - Project Advisor - ORCID: 0000-0002-4585-2122 - [GitHub](https://github.com/antoniotovargh)
 - Alex Smagin - Project Team Member - ORCID: 0009-0007-6588-1565 - [GitHub](https://github.com/Alexandrbig1)
-- Alina Zholdubaeva - Project Team Member - ORCID: 0009-0009-3548-1151
+- Alina Zholdubaeva - Project Team Member - ORCID: 0009-0009-3548-1151 - [GitHub] (https://github.com/Alinka8)
 - Jasmin Duishebaeva - Project Team Member - ORCID: 0009-0005-6258-0447
 - Jordi Rodriguez - Project Team Member - ORCID: 0009-0004-1036-3187
 
