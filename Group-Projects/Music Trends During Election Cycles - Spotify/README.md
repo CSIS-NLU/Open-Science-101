@@ -16,7 +16,7 @@ This Jupyter Notebook project analyzes songs data in the USA from spotify.
 
 
 ## Dataset
-Description sof the datasets used for this project [Link to Kaggle's dataset](https://github.com/nasa/Transform-to-Open-Science/blob/main/README.md#open-science-101-curriculum)
+Description of the dataset used for this project [Link to Kaggle's dataset](https://github.com/nasa/Transform-to-Open-Science/blob/main/README.md#open-science-101-curriculum)
 
 
 ## Introduction to Project
