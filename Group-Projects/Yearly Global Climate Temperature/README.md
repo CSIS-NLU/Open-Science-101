@@ -1,9 +1,12 @@
 Project Title: Yearly Global Climate Temperature Changes in 10 Hottest and 10 Coldest Places
 
+Project Team 
+Toni Holden-McGee 
+Brandon Swanson
+
 Globally we have seen temperature increases in most parts of the world, Alaska, northern and western hemispheres. While some parts of the world are heating up annually on a modular scale this data research provides data findings, and graphical results of global temperature changes over the past 20 years in the hottest and coldest parts of the world.
 
-
-*Hypothesis- Examining weather datasets and identifying the 10 hottest and coldest places globally and to answer the question, are these global places getting hotter, colder and to what temperature differences over the past 20 years?
+Hypothesis- Examining weather datasets and identifying the 10 hottest and coldest places globally and to answer the question, are these global places getting hotter, colder and to what temperature differences over the past 20 years?
 Additional questions were answered during the studying of various data sets during the research period:
 
 1.  Which countries have seen the highest and lowest changes in temperature between 2000-2023? 
@@ -21,13 +24,8 @@ Open Data
 
 Open Tools Used
 
-
 Open Results
 Github CSIS-NLU/Open Science 101
-
-Project Team
-Toni Holden-McGee
-Brandon Swanson
 
 Project Timeline
 
