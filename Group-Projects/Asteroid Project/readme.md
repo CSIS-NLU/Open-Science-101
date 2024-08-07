@@ -15,6 +15,13 @@
 
 ---
 
+### Screenshots:
+
+![Asteroids on the way to Earth](/Group-Projects/Asteroid%20Project/asteroids.jpg) _Screenshot 1
+(Asteroids on the way to Earth)_
+
+---
+
 **Initial Observations and Progress:**
 
 ### Day 1: Initial Observations and Progress
@@ -44,6 +51,8 @@ To support our research, we created functions to calculate key metrics:
 - A function to find the average velocity of asteroids.
 
 These foundational steps will guide us as we dive deeper into the analysis of NASA's asteroid data in the coming days.
+
+### Day 3:
 
 ---
 
@@ -80,9 +89,8 @@ These foundational steps will guide us as we dive deeper into the analysis of NA
 
 - **Powerpoint**: [Powerpoint]()
 - **Excel Sheet Data**: [Project Dataset](https://docs.google.com/spreadsheets/d/1Q_QM-YqW9yW4P4PteW9sOijVi2MwfEhaOKOLoTSNZLk/edit?usp=sharing)
-- **Project Dataset 2**: [Project Dataset2](https://drive.google.com/file/d/1Iq4aLBexODxbIgfd0wexota8q0TqEnM9/view?usp=sharing)
 - **Project Description**: [Nearest Earth Objects Project Description](https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024)
-- **Project Data**: [Nearest Earth Objects Dataset]()
+- **Project Data**: [Nearest Earth Objects Dataset](https://github.com/CSIS-NLU/Open-Science-101/tree/main/Group-Projects/Asteroid%20Project/data)
 
 ---
 
