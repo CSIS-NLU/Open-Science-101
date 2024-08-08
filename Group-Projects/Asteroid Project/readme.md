@@ -64,6 +64,8 @@ On Day 3 of our NASA workshop, we focused on testing our hypothesis: **Do smalle
 
 Dr. Antonio's guidance was instrumental in refining our approach and ensuring the accuracy of our findings.
 
+### Day 4:
+
 ---
 
 **Project Artifacts:**
@@ -94,8 +96,8 @@ Dr. Antonio's guidance was instrumental in refining our approach and ensuring th
 ### Our Observations:
 
 - **Smaller Asteroids' Velocity**: Our analysis confirmed that smaller asteroids tend to have greater velocity than larger ones, aligning with our hypothesis.
-- **Hazardous Asteroids**: [Observation details]
-- **Miss Distance Patterns**: [Observation details]
+- **Hazardous Asteroids**:
+- **Miss Distance Patterns**:
 
 Each observation was derived from the analysis conducted through Python and Pandas, with significant guidance from Dr. Antonio.
 
@@ -127,6 +129,26 @@ Each observation was derived from the analysis conducted through Python and Pand
 
 ---
 
+## Issues
+
+If you encounter any issues, bugs, or have suggestions for improvement, please feel free to [open an issue](https://github.com/CSIS-NLU/Open-Science-101/issues) on our GitHub repository. We encourage you to report any discrepancies in data, functionality issues with our code, or anything else that could help us improve the quality of our project. Your feedback is invaluable in helping us refine our work.
+
+---
+
+## Feedback
+
+We greatly value feedback from the community and project stakeholders. If you have any insights, suggestions, or comments that could help enhance our project, please reach out to us. You can provide feedback by:
+
+- **Opening an issue** on our GitHub repository.
+- **Contacting a team member** directly through GitHub.
+- **Submitting a pull request** with suggested improvements or corrections.
+
+Your contributions help us to ensure the accuracy, relevance, and impact of our research.
+
+---
+
 ## Acknowledgments
 
 We would like to thank Dr. Antonio Tovar for his invaluable guidance throughout this project. His insights and feedback were instrumental in refining our analysis and validating our findings.
+
+---
