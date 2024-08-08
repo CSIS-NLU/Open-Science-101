@@ -52,15 +52,25 @@ To support our research, we created functions to calculate key metrics:
 
 These foundational steps will guide us as we dive deeper into the analysis of NASA's asteroid data in the coming days.
 
-### Day 3:
+### Day 3: Validating Our Hypothesis
+
+On Day 3 of our NASA workshop, we focused on testing our hypothesis: **Do smaller asteroids move faster than larger ones?** With the right questions in mind, we utilized Python and Pandas to build functions that allowed us to analyze our asteroid data in detail.
+
+**Key Steps**:
+
+- **Data Analysis:** We developed Python functions to extract and analyze key metrics.
+- **Visualization:** We created a diagram to visualize the relationship between asteroid size and velocity.
+- **Findings:** The analysis confirmed our hypothesis—smaller asteroids tend to move faster than larger ones.
+
+Dr. Antonio's guidance was instrumental in refining our approach and ensuring the accuracy of our findings.
 
 ---
 
 **Project Artifacts:**
 
-- `AsteroidData.ipynb` - First rendition of data
-- `AsteroidData2.ipynb` - Second rendition of data with visualization of size and velocity
-- `AsteroidData.csv`
+- `AsteroidData.ipynb` - Initial data exploration, focusing on data cleaning and basic analysis.
+- `AsteroidData2.ipynb` - In-depth analysis with visualizations of asteroid size and velocity.
+- `AsteroidData.csv` - Dataset used in the project, containing relevant asteroid information from NASA.
 
 ---
 
@@ -81,9 +91,13 @@ These foundational steps will guide us as we dive deeper into the analysis of NA
 
 > Asteroids with smaller diameters have greater velocity.
 
-**Our Observations**:
+### Our Observations:
 
-//
+- **Smaller Asteroids' Velocity**: Our analysis confirmed that smaller asteroids tend to have greater velocity than larger ones, aligning with our hypothesis.
+- **Hazardous Asteroids**: [Observation details]
+- **Miss Distance Patterns**: [Observation details]
+
+Each observation was derived from the analysis conducted through Python and Pandas, with significant guidance from Dr. Antonio.
 
 ## URL Links:
 
@@ -110,3 +124,9 @@ These foundational steps will guide us as we dive deeper into the analysis of NA
 - [NASA Modules for Open Science](https://openscience101.org/about)
 - [NASA FAIR Principles](https://www.earthdata.nasa.gov/learn/articles/making-earth-science-data-fair#:~:text=NASA%20is%20working%20to%20ensure,FAIR)
 - [FAIR Assessment](https://www.f-uji.net/index.php)
+
+---
+
+## Acknowledgments
+
+We would like to thank Dr. Antonio Tovar for his invaluable guidance throughout this project. His insights and feedback were instrumental in refining our analysis and validating our findings.
