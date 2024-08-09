@@ -175,7 +175,7 @@ Each observation was derived from the analysis conducted through Python and Pand
 - Alex Smagin - Project Team Member - ORCID: 0009-0007-6588-1565 - [GitHub](https://github.com/Alexandrbig1)
 - Alina Zholdubaeva - Project Team Member - ORCID: 0009-0009-3548-1151 - [GitHub](https://github.com/Alinka8)
 - Jasmin Duishebaeva - Project Team Member - ORCID: 0009-0005-6258-0447 
-- Jordi Rodriguez - Project Team Member - ORCID: 0009-0004-1036-3187 - [Github](https://github.com/JR224-jpg)
+- Jordi Rodriguez - Project Team Member - ORCID: 0009-0004-1036-3187 - [GitHub](https://github.com/JR224-jpg)
 
 ---
 
