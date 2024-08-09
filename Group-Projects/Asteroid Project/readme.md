@@ -1,6 +1,6 @@
 # Team AstroPioneers: Analyzing the Velocity Distribution of Small Asteroids
 
-**Descripton of Research**:
+### Descripton of Research:
 
 > This project investigates the relationship between the size and velocity of asteroids within our solar system. Our central hypothesis posits that smaller asteroids exhibit greater velocities compared to their larger counterparts. To explore this hypothesis, we analyzed a comprehensive dataset of asteroid observations, focusing on key attributes such as size, velocity, and orbital parameters.
 
@@ -159,7 +159,7 @@ Each observation was derived from the analysis conducted through Python and Pand
 
 ## URL Links:
 
-- **Powerpoint**: [Powerpoint]()
+- **Powerpoint**: [Powerpoint](https://docs.google.com/presentation/d/1r9Vi_z3EddbH_eHS5Gd_BBTkE0VKa03nxBB9hihftqc/edit#slide=id.g10eb5cd01b8_0_24)
 - **Excel Sheet Data**: [Project Dataset](https://docs.google.com/spreadsheets/d/1Q_QM-YqW9yW4P4PteW9sOijVi2MwfEhaOKOLoTSNZLk/edit?usp=sharing)
 - **Project Description**: [Nearest Earth Objects Project Description](https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024)
 - **Project Data**: [Nearest Earth Objects Dataset](https://github.com/CSIS-NLU/Open-Science-101/tree/main/Group-Projects/Asteroid%20Project/data)
