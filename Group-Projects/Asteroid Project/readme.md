@@ -14,17 +14,17 @@ This project investigates the relationship between the size and velocity of aste
 
 **Methodology:**
 
-1. **Data Collection:** We utilized a robust dataset containing attributes of numerous asteroids, including their sizes, velocities, and orbital characteristics. This dataset was sourced from reliable astronomical databases and research institutions.
+1. **Data Collection:** We utilized a robust dataset containing attributes of numerous asteroids, including their sizes, velocities, and orbital characteristics. This dataset was sourced from kaggle.com, a reliable astronomical dataset and research source.
 
 2. **Data Preparation:** The dataset was cleaned and preprocessed to ensure accuracy and consistency. This involved handling missing values, normalizing measurements, and categorizing data into relevant groups.
 
 3. **Visualization Techniques:** A variety of visualization methods were employed to analyze and interpret the data. This included scatter plots to depict the relationship between asteroid size and velocity, histograms to show the distribution of velocities across different size ranges, and correlation heatmaps to identify potential patterns or anomalies.
 
-4. **Statistical Analysis:** We applied statistical tests to quantify the relationship between asteroid size and velocity. This included regression analysis to determine the strength and direction of the correlation.
+4. **Statistical Analysis:** We applied statistical tests to quantify the relationship between asteroid size and velocity. 
 
 **Results:**
 
-The visualizations and statistical analyses provided clear insights into the relationship between asteroid size and velocity. Our findings supported the hypothesis that smaller asteroids tend to have higher velocities compared to larger ones. This was evident from the scatter plots showing a trend where smaller asteroids clustered at higher velocity ranges.
+The visualizations and statistical analyses provided clear insights into the relationship between asteroid size and velocity. Our findings supported the hypothesis that smaller asteroids tend to have higher velocities compared to larger ones. This was evident from the scatter and attribute correlation plots showing a trend where smaller asteroids clustered at higher velocity ranges.
 
 **Conclusion:**
 
