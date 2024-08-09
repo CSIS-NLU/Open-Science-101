@@ -26,8 +26,10 @@ Our project is based on the shift of music genres, depending on non-election and
 Description of the dataset used for this project. [Link to Kaggle's dataset](https://github.com/nasa/Transform-to-Open-Science/blob/main/README.md#open-science-101-curriculum)
 
 ## Results of Project 
-We've come to the conclusion that the genres do not change whether they are non-election or election years but the danceability and loudness do.
-Every year, the top songs on Spotify are Pop but the charts show that once it's non election years danceability, tempo, and loudness decrease.
+
+- We've come to the conclusion that the genres do not change whether they are non-election or election years but the danceability.
+- The elections years have a relationship with the danceability of pop music.
+
 
 ## License Information
 You are free to:
