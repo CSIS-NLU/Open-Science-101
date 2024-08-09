@@ -8,6 +8,24 @@
 
 ---
 
+## Table of Contents
+
+- [Terminology](#terminology)
+- [Screenshots](#screenshots)
+- [Workshop Details and Progress](#workshop-details-and-progress)
+- [Project Artifacts](#project-artifacts)
+- [Research Questions](#research-questions)
+- [Hypothesis](#hypothesis)
+- [Our Observations](#our-observations)
+- [URL Links](#url-links)
+- [Research Project Team](#research-project-team)
+- [Citations](#citations)
+- [Issues](#issues)
+- [Feedback](#feedback)
+- [Acknowledgments](#acknowledgments)
+
+---
+
 ## Terminology
 
 - **Open Science**: A movement to make scientific research, data, and dissemination accessible to all. It encompasses four key components:
@@ -25,18 +43,18 @@
 
 ---
 
-### Screenshots:
+## Screenshots:
 
-![Asteroids on the way to Earth](/Group-Projects/Asteroid%20Project/asteroids.jpg) _Screenshot 1
+![Asteroids on the way to Earth](/Group-Projects/Asteroid%20Project/images/asteroids.jpg) _Screenshot 1
 (Asteroids on the way to Earth)_
 
 ---
 
-**Initial Observations and Progress:**
+## Workshop Details and Progress
 
-### Day 1: Initial Observations and Progress
+### Day 1: Defining Scope and Data Discovery
 
-As of the first day of our workshop at NASA, we have started gathering resources and defining the scope of our research. Our focus is on NASA's Nearest Earth Objects (1910-2024). Over the next week, we will be examining various datasets and code repositories to evaluate their compliance with Open Science and FAIR Principles. Further updates and detailed observations will be added as the project progresses.
+On the first day of our workshop at NASA, we started by gathering resources and defining the scope of our research. Our focus is on NASA's Nearest Earth Objects (1910-2024). During our initial exploration, we found a relevant dataset on Kaggle, which we plan to explore and work with in the coming days. Over the next week, we will examine various datasets and code repositories to evaluate their compliance with Open Science and FAIR Principles. Further updates and detailed observations will be added as the project progresses.
 
 ### Day 2: Preparing Questions and Hypotheses
 
@@ -74,19 +92,22 @@ On Day 3 of our NASA workshop, we focused on testing our hypothesis: **Do smalle
 
 Dr. Antonio's guidance was instrumental in refining our approach and ensuring the accuracy of our findings.
 
-### Day 4:
+### Day 4: Preparing for the Final Presentation
+
+On Day 4, having proven our hypothesis that smaller asteroids tend to move faster than larger ones, we shifted our focus towards preparing for the final presentation. This presentation will showcase all aspects of our project, including detailed explanations of our research, the methodologies employed, and the key learnings we gathered throughout the NASA TOPS workshop. The presentation will be delivered using PowerPoint, highlighting both our analytical process and the broader significance of our findings.
 
 ---
 
-**Project Artifacts:**
+## Project Artifacts:
 
 - `AsteroidData.ipynb` - Initial data exploration, focusing on data cleaning and basic analysis.
 - `AsteroidData2.ipynb` - In-depth analysis with visualizations of asteroid size and velocity.
-- `AsteroidData.csv` - Dataset used in the project, containing relevant asteroid information from NASA.
+- `Visualization_of_AsteroidData.ipynb` - In-depth analysis with visualizations of the full dataset.
+- `Visualization_of_AsteroidData_version_2_0.ipynb` - In-depth analysis with visualizations of the full dataset.
 
 ---
 
-**Research Questions:**
+## Research Questions:
 
 1. On average, how many asteroids are hazardous to Earth?
 2. What is the average miss distance of asteroids?
@@ -99,17 +120,21 @@ Dr. Antonio's guidance was instrumental in refining our approach and ensuring th
 
 ---
 
-**Hypothesis:**
+## Hypothesis:
 
 > Asteroids with smaller diameters have greater velocity.
 
-### Our Observations:
+---
+
+## Our Observations:
 
 - **Smaller Asteroids' Velocity**: Our analysis confirmed that smaller asteroids tend to have greater velocity than larger ones, aligning with our hypothesis.
 - **Hazardous Asteroids**:
 - **Miss Distance Patterns**:
 
 Each observation was derived from the analysis conducted through Python and Pandas, with significant guidance from Dr. Antonio.
+
+---
 
 ## URL Links:
 
@@ -159,6 +184,19 @@ Your contributions help us to ensure the accuracy, relevance, and impact of our 
 
 ## Acknowledgments
 
-We would like to thank Dr. Antonio Tovar for his invaluable guidance throughout this project. His insights and feedback were instrumental in refining our analysis and validating our findings.
+We would like to extend our heartfelt thanks to all the National Louis University professors who guided us throughout this workshop. We greatly appreciate their knowledge, experience, and the invaluable advice they shared with us:
+
+- PhD Antonio Tovar
+- PhD Abdullah Alshboul
+- PhD Toni Holden-McGee
+- PhD Phuong Thai-Garcia
+- PhD Ian Moncrief
+- PhD Robyn Moncrief
+
+We are also deeply grateful to NASA TOPS Open-Science Workshop for this incredible opportunity. Their influence on students, developers, programmers, and coders through this initiative is invaluable.
+
+Special thanks to our project team — Alex Smagin, Jordi Rodriguez, Jasmin Duishebaeva, and Alina Zholdubaeva — for making this experience remarkable. We also appreciate Akshay Mestry for his support and advice throughout our project.
+
+Lastly, we thank National Louis University at Wheeling for providing the space that made this workshop possible.
 
 ---
