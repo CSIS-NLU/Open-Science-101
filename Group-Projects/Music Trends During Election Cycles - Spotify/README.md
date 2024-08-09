@@ -6,7 +6,7 @@ This Jupyter Notebook project analyzes songs data in the USA from spotify.
 
 - Open data set: Kaggle data we have found
 - Open data tools: Python
-- Open License 
+- Open License: CC-BY
 ## Project Team Members
 - Emely Chuy
 - David Fonseca
