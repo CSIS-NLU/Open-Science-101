@@ -9,6 +9,7 @@ Our project is based on the shift of music genres, depending on non-election and
 - Open data set: Kaggle data we have found
 - Open data tools: Python
 - Open License: CC-BY
+  
 ## Project Team Members
 - Emely Chuy
 - David Fonseca
@@ -25,7 +26,7 @@ Our project is based on the shift of music genres, depending on non-election and
 
 
 ## Dataset
-Description of the dataset used for this project. [Link to Kaggle's dataset](https://github.com/nasa/Transform-to-Open-Science/blob/main/README.md#open-science-101-curriculum)
+Description of the dataset used for this project. [Link to Kaggle's dataset(https://www.kaggle.com/datasets/josephinelsy/spotify-top-hit-playlist-2010-2022 )
 
 ## Results of Project 
 
