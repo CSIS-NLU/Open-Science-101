@@ -1,10 +1,34 @@
-# Team AstroPioneers: Asteroid Impact Risk Assessment Project (AIRAP)
+# Team AstroPioneers: Analyzing the Velocity Distribution of Small Asteroids
 
 **Descripton of Research**:
 
-> The Astro Pioneers' Asteroid Impact Risk Assessment Project (AIRAP) is dedicated to evaluating and analyzing data from NASA's Nearest Earth Objects (1910-2024) to assess the potential risks these asteroids pose to our planet. The project focuses on asteroids with diameters that could cause substantial damage if they were to impact Earth, specifically targeting those within a significant size range. Our analysis examines asteroid proximity to Earth, determining which asteroids—whether large or small, with varying velocities—are likely to come closer to our planet.
+>  
 
-> By carefully studying these factors, the project aims to provide essential risk assessments, identifying asteroids with a significant probability of impact in the coming centuries. The findings from AIRAP are crucial for developing potential mitigation strategies and enhancing global preparedness against possible asteroid threats. Throughout the project, we have adhered to NASA's Open Science principles—Open Data, Open Tools, Open Code, and Open Results—and have ensured our research aligns with the FAIR principles, making our data Findable, Accessible, Interoperable, and Reusable.
+This project investigates the relationship between the size and velocity of asteroids within our solar system. Our central hypothesis posits that smaller asteroids exhibit greater velocities compared to their larger counterparts. To explore this hypothesis, we analyzed a comprehensive dataset of asteroid observations, focusing on key attributes such as size, velocity, and orbital parameters.
+
+**Objectives:**
+
+1. **Hypothesis Testing:** To examine whether smaller asteroids indeed have higher velocities than larger ones, as hypothesized.
+   
+2. **Data Visualization:** To develop a suite of visualizations that effectively represent the distribution of asteroid attributes and reveal patterns or correlations between size and velocity.
+
+**Methodology:**
+
+1. **Data Collection:** We utilized a robust dataset containing attributes of numerous asteroids, including their sizes, velocities, and orbital characteristics. This dataset was sourced from reliable astronomical databases and research institutions.
+
+2. **Data Preparation:** The dataset was cleaned and preprocessed to ensure accuracy and consistency. This involved handling missing values, normalizing measurements, and categorizing data into relevant groups.
+
+3. **Visualization Techniques:** A variety of visualization methods were employed to analyze and interpret the data. This included scatter plots to depict the relationship between asteroid size and velocity, histograms to show the distribution of velocities across different size ranges, and correlation heatmaps to identify potential patterns or anomalies.
+
+4. **Statistical Analysis:** We applied statistical tests to quantify the relationship between asteroid size and velocity. This included regression analysis to determine the strength and direction of the correlation.
+
+**Results:**
+
+The visualizations and statistical analyses provided clear insights into the relationship between asteroid size and velocity. Our findings supported the hypothesis that smaller asteroids tend to have higher velocities compared to larger ones. This was evident from the scatter plots showing a trend where smaller asteroids clustered at higher velocity ranges.
+
+**Conclusion:**
+
+The project successfully validated the hypothesis that smaller asteroids possess greater velocities. The comprehensive data visualization approach facilitated a deeper understanding of the attributes and interactions within the asteroid dataset, leading to valuable conclusions about their dynamic behaviors. These insights contribute to the broader field of asteroid research and may have implications for future studies on asteroid dynamics and their impact on space exploration.
 
 ---
 
