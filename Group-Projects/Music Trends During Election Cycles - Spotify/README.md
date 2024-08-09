@@ -6,7 +6,7 @@ This Jupyter Notebook project explores the shift in music popularity and genres 
 
 This project investigates how the popularity of music genres and various attributes (such as danceability) change between non-election and election years. Our analysis spans from 2016 to 2023, aiming to uncover patterns and trends in music consumption.
 
-![Spotify](https://i.pinimg.com/originals/0b/55/b2/0b55b2a29ff1df6ba45259c192664ccc.jpg)
+<img src="https://i.pinimg.com/originals/0b/55/b2/0b55b2a29ff1df6ba45259c192664ccc.jpg" alt="Spotify" width="200"/>
 
 ## Open Science Techniques Used
 
