@@ -1,9 +1,9 @@
 # Popularity of songs shift with years of elections
-
 This Jupyter Notebook project analyzes songs data in the USA from spotify. 
+## Introduction
+Our project is based on the shift of music genres, depending on non-election and election years from 2016-2023.
 
 ## Open Science Techniques Used
-
 - Open data set: Kaggle data we have found
 - Open data tools: Python
 - Open License: CC-BY
@@ -12,9 +12,6 @@ This Jupyter Notebook project analyzes songs data in the USA from spotify.
 - David Fonseca
 - Reva Kulkarni
 - Phuong Thai-Garcia
-
-## Introduction
-Our project is based on the shift of music genres, depending on non-election and election years from 2016-2023.
 
 ## Project Process
 - We put some ideas together, brainstormed, and narrow down questions.
