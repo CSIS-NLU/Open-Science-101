@@ -26,7 +26,7 @@ Our project is based on the shift of music genres, depending on non-election and
 
 
 ## Dataset
-Description of the dataset used for this project. [Link to Kaggle's dataset (https://www.kaggle.com/datasets/josephinelsy/spotify-top-hit-playlist-2010-2022 )]
+Description of the dataset used for this project. [Link to Kaggle's dataset](https://www.kaggle.com/datasets/josephinelsy/spotify-top-hit-playlist-2010-2022 )
 
 ## Results of Project 
 
