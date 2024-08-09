@@ -2,17 +2,14 @@
 
 **Descripton of Research**:
 
->  
+> This project investigates the relationship between the size and velocity of asteroids within our solar system. Our central hypothesis posits that smaller asteroids exhibit greater velocities compared to their larger counterparts. To explore this hypothesis, we analyzed a comprehensive dataset of asteroid observations, focusing on key attributes such as size, velocity, and orbital parameters.
 
-This project investigates the relationship between the size and velocity of asteroids within our solar system. Our central hypothesis posits that smaller asteroids exhibit greater velocities compared to their larger counterparts. To explore this hypothesis, we analyzed a comprehensive dataset of asteroid observations, focusing on key attributes such as size, velocity, and orbital parameters.
-
-**Objectives:**
+### Objectives:
 
 1. **Hypothesis Testing:** To examine whether smaller asteroids indeed have higher velocities than larger ones, as hypothesized.
-   
 2. **Data Visualization:** To develop a suite of visualizations that effectively represent the distribution of asteroid attributes and reveal patterns or correlations between size and velocity.
 
-**Methodology:**
+### Methodology:
 
 1. **Data Collection:** We utilized a robust dataset containing attributes of numerous asteroids, including their sizes, velocities, and orbital characteristics. This dataset was sourced from kaggle.com, a reliable astronomical dataset and research source.
 
@@ -20,13 +17,13 @@ This project investigates the relationship between the size and velocity of aste
 
 3. **Visualization Techniques:** A variety of visualization methods were employed to analyze and interpret the data. This included scatter plots to depict the relationship between asteroid size and velocity, histograms to show the distribution of velocities across different size ranges, and correlation heatmaps to identify potential patterns or anomalies.
 
-4. **Statistical Analysis:** We applied statistical tests to quantify the relationship between asteroid size and velocity. 
+4. **Statistical Analysis:** We applied statistical tests to quantify the relationship between asteroid size and velocity.
 
-**Results:**
+### Results:
 
 The visualizations and statistical analyses provided clear insights into the relationship between asteroid size and velocity. Our findings supported the hypothesis that smaller asteroids tend to have higher velocities compared to larger ones. This was evident from the scatter and attribute correlation plots showing a trend where smaller asteroids clustered at higher velocity ranges.
 
-**Conclusion:**
+### Conclusion:
 
 The project successfully validated the hypothesis that smaller asteroids possess greater velocities. The comprehensive data visualization approach facilitated a deeper understanding of the attributes and interactions within the asteroid dataset, leading to valuable conclusions about their dynamic behaviors. These insights contribute to the broader field of asteroid research and may have implications for future studies on asteroid dynamics and their impact on space exploration.
 
@@ -152,9 +149,9 @@ On Day 4, having proven our hypothesis that smaller asteroids tend to move faste
 
 ## Our Observations:
 
-- **Smaller Asteroids' Velocity**: Our analysis confirmed that smaller asteroids tend to have greater velocity than larger ones, aligning with our hypothesis.
-- **Hazardous Asteroids**:
-- **Miss Distance Patterns**:
+- **Smaller Asteroids' Velocity**: Our analysis confirmed that smaller asteroids move faster than larger ones, supporting our hypothesis. The data shows a clear trend of higher velocities for smaller asteroids.
+- **Hazardous Asteroids**: The data reveals that most asteroids are non-hazardous, with hazardous ones being relatively few. This is illustrated by our diagram, which shows a predominance of non-hazardous asteroids.
+- **Miss Distance Patterns**: Faster asteroids generally have greater miss distances from Earth. Our data indicates that high-velocity asteroids are less likely to come close to our planet.
 
 Each observation was derived from the analysis conducted through Python and Pandas, with significant guidance from Dr. Antonio.
 
@@ -174,7 +171,7 @@ Each observation was derived from the analysis conducted through Python and Pand
 - Dr. Antonio Tovar - Project Advisor - ORCID: 0000-0002-4585-2122 - [GitHub](https://github.com/antoniotovargh)
 - Alex Smagin - Project Team Member - ORCID: 0009-0007-6588-1565 - [GitHub](https://github.com/Alexandrbig1)
 - Alina Zholdubaeva - Project Team Member - ORCID: 0009-0009-3548-1151 - [GitHub](https://github.com/Alinka8)
-- Jasmin Duishebaeva - Project Team Member - ORCID: 0009-0005-6258-0447 
+- Jasmin Duishebaeva - Project Team Member - ORCID: 0009-0005-6258-0447
 - Jordi Rodriguez - Project Team Member - ORCID: 0009-0004-1036-3187 - [GitHub](https://github.com/JR224-jpg)
 
 ---
