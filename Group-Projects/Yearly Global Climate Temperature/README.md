@@ -39,11 +39,11 @@ Compare data results from various datasets per research
 Evaluate global temperature changes over the past 20 years
 Perform/Create data analysis graphical data 
 
-Day 3 (8/7)
+Day 4 (8/7)
 Organize results
 Prepare PowerPoint Presentation 
 
-Day 4 (8/9)
+Day 5 (8/9)
 Presentation of topic and results
 
 
