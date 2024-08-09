@@ -2,7 +2,7 @@
 This Jupyter Notebook project analyzes songs data in the USA from spotify. 
 ## Introduction
 Our project is based on the shift of music genres, depending on non-election and election years from 2016-2023.
-
+<img src="https://i.pinimg.com/originals/0b/55/b2/0b55b2a29ff1df6ba45259c192664ccc.jpg" alt="Spotify" width="200"/>
 ## Open Science Techniques Used
 - Open data set: Kaggle data we have found
 - Open data tools: Python
