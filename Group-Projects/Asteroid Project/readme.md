@@ -2,16 +2,26 @@
 
 **Descripton of Research**:
 
-> The Asteroid Impact Risk Assessment Project (AIRAP) aims to evaluate and analyze data on near-Earth asteroids to assess their potential collision risk with our planet. The project focuses on asteroids with diameters ranging from 140 meters to 1 kilometer, as these sizes are significant enough to potentially cause substantial damage if they impact Earth. The team will attempt to analyze asteroid proximity measuring distances as close as 0.05 astronomical units (AU) from Earth—one AU being the average distance between Earth and the Sun, roughly 93 million miles.
+> The Astro Pioneers' Asteroid Impact Risk Assessment Project (AIRAP) is dedicated to evaluating and analyzing data from NASA's Nearest Earth Objects (1910-2024) to assess the potential risks these asteroids pose to our planet. The project focuses on asteroids with diameters that could cause substantial damage if they were to impact Earth, specifically targeting those within a significant size range. Our analysis examines asteroid proximity to Earth, determining which asteroids—whether large or small, with varying velocities—are likely to come closer to our planet.
 
-> Velocity measurements are critical, with many near-Earth asteroids traveling at speeds exceeding 15 kilometers per second. This rapid movement heightens the urgency of accurate predictions and assessments. The core objective of this analysis is to determine the probability of a collision, calculated through sophisticated modeling that incorporates orbital data and gravitational perturbations. By analyzing these factors, the project provides essential risk assessments, highlighting asteroids with a significant impact probability over the coming centuries. AIRAP’s findings are crucial for developing potential mitigation strategies and enhancing global preparedness for possible asteroid threats. The project utilizes NASA's Open Science principles of Open Data, Open Tools, Open Code, and Open Results.
+> By carefully studying these factors, the project aims to provide essential risk assessments, identifying asteroids with a significant probability of impact in the coming centuries. The findings from AIRAP are crucial for developing potential mitigation strategies and enhancing global preparedness against possible asteroid threats. Throughout the project, we have adhered to NASA's Open Science principles—Open Data, Open Tools, Open Code, and Open Results—and have ensured our research aligns with the FAIR principles, making our data Findable, Accessible, Interoperable, and Reusable.
 
 ---
 
-**Terminology:**
+## Terminology
 
-- **Open Science**: Encompasses Open Data, Open Code, Open Source, and Open Results.
-- **FAIR Principles**: Findable, Accessible, Interoperable, and Reusable data and information.
+- **Open Science**: A movement to make scientific research, data, and dissemination accessible to all. It encompasses four key components:
+
+  - **Open Data**: Data that is freely available for anyone to use, modify, and share.
+  - **Open Code**: Source code that is made available to the public, allowing others to use, modify, and distribute it.
+  - **Open Source**: Software for which the original source code is made freely available and may be redistributed and modified.
+  - **Open Results**: The outcomes of research, including publications and data, that are freely accessible to the public.
+
+- **FAIR Principles**: Guidelines that ensure that research data is:
+  - **Findable**: Data should be easy to find by both humans and computers, with metadata that clearly describes the data.
+  - **Accessible**: Data should be retrievable by authorized users, using standardized protocols.
+  - **Interoperable**: Data should be compatible with other datasets and tools, allowing for integration and analysis across various platforms.
+  - **Reusable**: Data should be well-documented and licensed for reuse, allowing others to replicate or build upon the research.
 
 ---
 
