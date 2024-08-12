@@ -117,6 +117,16 @@ Dr. Antonio's guidance was instrumental in refining our approach and ensuring th
 
 On Day 4, having proven our hypothesis that smaller asteroids tend to move faster than larger ones, we shifted our focus towards preparing for the final presentation. This presentation will showcase all aspects of our project, including detailed explanations of our research, the methodologies employed, and the key learnings we gathered throughout the NASA TOPS workshop. The presentation will be delivered using PowerPoint, highlighting both our analytical process and the broader significance of our findings.
 
+### Day 5: Presentation Day
+
+On the final day of the workshop, we presented our project to the professors from National Louis University and the NASA TOPS team. Each team member took part in the presentation:
+
+- **Alina and Jasmin**: Presented the PowerPoint slides, explaining the project description, research questions, and hypothesis.
+- **Jordi**: Discussed the dataset, including how we sourced the data, verified its accuracy, and assessed the credibility of the authors and sources.
+- **Alex**: Detailed the coding aspects, including the Python, R, and Pandas functions used in our analysis, and demonstrated how we validated our hypothesis with the results shown in our charts.
+
+After the presentation, we were awarded certificates for successfully completing the NASA TOPS workshop and received badges from the NASA team.
+
 ---
 
 ## Project Artifacts:
@@ -162,7 +172,6 @@ Each observation was derived from the analysis conducted through Python and Pand
 - **Powerpoint**: [Powerpoint](https://docs.google.com/presentation/d/1r9Vi_z3EddbH_eHS5Gd_BBTkE0VKa03nxBB9hihftqc/edit#slide=id.g10eb5cd01b8_0_24)
 - **Excel Sheet Data**: [Project Dataset](https://docs.google.com/spreadsheets/d/1Q_QM-YqW9yW4P4PteW9sOijVi2MwfEhaOKOLoTSNZLk/edit?usp=sharing)
 - **Project Description**: [Nearest Earth Objects Project Description](https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024)
-- **Project Data**: [Nearest Earth Objects Dataset](https://github.com/CSIS-NLU/Open-Science-101/tree/main/Group-Projects/Asteroid%20Project/data)
 
 ---
 
