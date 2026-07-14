@@ -23,16 +23,19 @@ Note: This version of the curriculum will not allow you to get badged. To get ba
 
 
 ## Facilitators
-<img width="397" alt="Screenshot 2024-07-19 at 2 16 43 PM" src="https://github.com/user-attachments/assets/27dc4a89-973c-49f3-851f-7043a524002f">
-
+<img width="482" height="415" alt="Screenshot 2026-07-14 at 10 35 00 AM" src="https://github.com/user-attachments/assets/c2e01eca-424b-47a4-bece-943fb307c854" />
 
 ## Participants
-### Chicago Participants  
+### 2026 Chicago Participants
+Axel Galvan, Bermet Azamat Kyzy, Cecilia Labra, Drew Williams, Giada Pompili, Jalexzion McKay, Jasmine Willingham, Melissa Garcia, Dr. Mike Williams, and Stephanie Zavala. 
+
+### 2024 Chicago Participants  
 Aibiike	Shainazarova, Akshay Mestry, Alejandro	Alvarez, Alexander	Zurek, Anas Mohammed, Areej Imran, Betty	Wong, Brandon	Ortiz, Bryan	Palafox, Dhruvil	Prajapati, Diana Toktorbekova, Erzhan Zheenbekov, Gianna Dubinski, Jhovanny Ugalde, Medina	Kubanychbekova, Mohammed Khan, Mohammed Abdul Zeeshan Askari, Nadim Vaid, Noah Martinez, Orlanda	Ford, Roberto	Perez, Sathvik	Maridasana Nagaraj, Sayyorakhon	Raimjonova, Shaning	Ayah, Yesenia Jimenez
 
-### Wheeling Participants  
+### 2024 Wheeling Participants  
 Alex Smagin, Alina Zholdubaeva, Brandon Swanson, David Fonseca, Emely Chuy, Enxhi Merkah, Jasmin Duishebaeva, Jordi Rodriguez, Reva Kulkarni
 
 ## Special Thanks
 
-We want to thank Jesus Gil for helping with organizing our workshop days!
+We want to thank Cullen for helping with organizing our workshop days!<img width="482" height="415" alt="Screenshot 2026-07-14 at 10 35 00 AM" src="https://github.com/user-attachments/assets/21736085-0463-458b-9b3e-59d3ca830c5c" />
+
