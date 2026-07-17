@@ -1,2 +1,3 @@
-#This folder contains all facilitators' presentations#
-## In no particular order!##
+
+## This folder contains all facilitators' presentations. 
+###In no particular order!
