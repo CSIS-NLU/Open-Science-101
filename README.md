@@ -24,7 +24,7 @@ Note: This version of the curriculum will not allow you to get badged. To get ba
 
 ## Facilitators
 <img width="397" alt="Screenshot 2024-07-19 at 2 16 43 PM" src="https://github.com/user-attachments/assets/27dc4a89-973c-49f3-851f-7043a524002f">
-<img width="397" alt="2026 NASA Facilitators" src="(https://github.com/CSIS-NLU/Open-Science-101/blob/main/images/2026%20NASA%20Facilitators.jpg)">
+<img width="397" alt="2026 NASA Facilitators" src="(images/2026 NASA Facilitators.jpg)">
 
 
 ## Participants
