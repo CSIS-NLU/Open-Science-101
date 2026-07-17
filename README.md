@@ -1,9 +1,9 @@
-# NLU's NASA TOPST Open Science 101
+# NLU's NASA Open Science 101
 
 NLU is supporting NASA's mission to Transform to Open Science. 
 Check out the [NASA TOPS Github](https://github.com/nasa/Transform-to-Open-Science/blob/main/README.md#open-science-101-curriculum).
 
-## What are the NLU NASA TOPST Open Science Summer Workshops?
+## What are the NLU NASA Open Science Summer Workshops?
 
 These summer workshops are intended to: 
 - Broaden diverse undergraduates’ interest and participation in science.
@@ -17,7 +17,7 @@ The Open Science 101 curriculum is a 5-module curriculum designed to equip resea
 
 ### Review the Open Science 101 Curriculum
 
-TOPS has created a development version of the curriculum written in Markdown to enable the community to help make it even better. It can be found [here](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101).
+TOPS has created a development version of the curriculum written in Markdown to enable the community to help make it even better. It can be found [here](https://github.com/MetaDocencia/NASA_TOPS-OS101).
 
 Note: This version of the curriculum will not allow you to get badged. To get badged for Open Science 101 enroll [here](https://nasa.github.io/Transform-to-Open-Science/take-os101/).
 
