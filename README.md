@@ -31,7 +31,7 @@ You may find all facilitators' presentations [here](https://github.com/CSIS-NLU/
 
 ## Participants
 ### 2026 Chicago Participants  
-Axel Galvan, Bermet Azamat Kyzy, Cecilia Labra, Drew Williams, Giada Pompili, Jalexzion McKay, Jasmine Willingham, Melissa Garcia, Dr. Mike Williams, Roman Lyubyy, Stephanie Zavala 
+Axel Galvan, Akshay Mestry, Bermet Azamat Kyzy, Cecilia Labra, Drew Williams, Giada Pompili, Jalexzion McKay, Jasmine Willingham, Melissa Garcia, Dr. Mike Williams, Roman Lyubyy, Stephanie Zavala 
 
 ### 2025 Chicago Participants  
 Aibiike	Shainazarova, Akshay Mestry, Alejandro	Alvarez, Alexander	Zurek, Anas Mohammed, Areej Imran, Betty	Wong, Brandon	Ortiz, Bryan	Palafox, Dhruvil	Prajapati, Diana Toktorbekova, Erzhan Zheenbekov, Gianna Dubinski, Jhovanny Ugalde, Medina	Kubanychbekova, Mohammed Khan, Mohammed Abdul Zeeshan Askari, Nadim Vaid, Noah Martinez, Orlanda	Ford, Roberto	Perez, Sathvik	Maridasana Nagaraj, Sayyorakhon	Raimjonova, Shaning	Ayah, Yesenia Jimenez
