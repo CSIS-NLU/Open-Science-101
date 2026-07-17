@@ -26,7 +26,8 @@ Note: This version of the curriculum will not allow you to get badged. To get ba
 
 <img width="643" height="532" alt="2026 NASA Facilitators" src="https://github.com/user-attachments/assets/b0c64795-daaa-464b-9500-6e61b10c0157" />
 
-
+### Facilitators' Presentations  
+You may find all facilitators' presentations [here](https://github.com/CSIS-NLU/Open-Science-101/tree/main/Facilitator-Presentations)
 
 ## Participants
 ### Chicago Participants  
